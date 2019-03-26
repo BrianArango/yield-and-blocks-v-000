@@ -1,7 +1,7 @@
 def hello_t(name)
-  i = 0 
-  while i < array.length 
-  i = i + 1 
+  name = 0 
+  while name < name.length 
+  name = name + 1 
   end
 end
 
